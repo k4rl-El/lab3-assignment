@@ -7,7 +7,7 @@ namespace lab3_assigment
     {
         static void Main(string[] args)
         {
-            // lab3 question: write a c# program to check prime number
+            // lab3 question: write a c# program to check prime numbergi
             Console.WriteLine("input the number you would like to check");
             int prime_number =  int.Parse(Console.ReadLine());
             bool is_prime = true;
